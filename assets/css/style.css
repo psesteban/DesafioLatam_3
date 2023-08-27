@@ -1,0 +1,76 @@
+body {
+  background-color: #000000;
+  font-family: "Raleway", sans-serif;
+  color: #ffff;
+}
+
+.portada img {
+  width: 100%;
+}
+
+h1 {
+  margin: 1%;
+}
+
+header {
+  text-align: center;
+}
+
+main img {
+  padding: 2%;
+  width: 40%;
+}
+
+main {
+  display: flex;
+  padding: 3%;
+  justify-content:space-evenly;
+  margin-left: 7%;
+  margin-right: 10%;
+}
+
+.features {
+  padding: 4%;
+  width: 40%;
+}
+
+.features p {
+  font-size: 100%;
+}
+
+.keywords {
+  margin: 0px;
+  text-align: center;
+  background-color: #1e1a13;
+  padding: 3%;
+}
+
+.keywords h2 {
+  font-size: 200%;
+  margin-bottom: 5%;
+}
+
+.iconos {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  margin-bottom: 2%;
+}
+
+.expo {
+  margin: 1%;
+  display: flex;
+  gap: 3%;
+  padding: 5%;
+}
+.expo img {
+  width: 30%;
+}
+
+footer {
+  padding: 3%;
+  justify-content: center;
+  background-color: #1e1a13;
+  color: #9e8989;
+  text-align: center;
+}
